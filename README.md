@@ -1,5 +1,7 @@
 # RiffOS
 Riff OS mobile operating system. 
--|Continuity|Planned|
--|Base OS/Kernel|In progress|
--|Apps|Planned|
+| Name         | Progress     | What it does |
+|--------------|-----------|------------|
+|Continuity | Planned      | Shares calls and camera to InlnxOS        |
+-|Base OS/Kernel|In progress|Self explanitory|
+-|Apps|Planned|Access web and hardware|
