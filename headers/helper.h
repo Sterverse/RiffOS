@@ -1,11 +1,10 @@
 
 /***
+ * Rewriting basic stdio.h functions
  *
- * Re-ecriture des fonctions de base de stdio
- *
- *           Author: Erick Gallesio [eg@unice.fr]
+ *    Author: Erick Gallesio [eg@unice.fr]
  *    Creation date: 27-Oct-1992 09:28
- * Last file update: 11-May-2014 23:45 (eg)
+ *    Last file update: 11-May-2014 23:45 (eg)
  *
  */
 
