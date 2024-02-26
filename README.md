@@ -5,3 +5,4 @@ Riff OS mobile operating system.
 |Continuity | Planned      | Shares calls and camera to InlnxOS        |
 |Base OS/Kernel|In progress|Self explanitory|
 |Apps|Planned|Access web and hardware|
+| Fonts| Ready | text|
